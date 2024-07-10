@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\LTPTTKTT\\2001207116_DinhHuuPhap_BTT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3235039A-46EA-4755-9055-68A78D307CA2}|2001207116_DinhHuuPhap_BTT1\\2001207116_DinhHuuPhap_BTT1.csproj|a:\\ltpttktt\\2001207116_dinhhuuphap_btt1\\2001207116_dinhhuuphap_btt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3235039A-46EA-4755-9055-68A78D307CA2}|2001207116_DinhHuuPhap_BTT1\\2001207116_DinhHuuPhap_BTT1.csproj|solutionrelative:2001207116_dinhhuuphap_btt1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\LTPTTKTT\\2001207116_DinhHuuPhap_BTT1\\2001207116_DinhHuuPhap_BTT1\\Program.cs",
+              "RelativeDocumentMoniker": "2001207116_DinhHuuPhap_BTT1\\Program.cs",
+              "ToolTip": "A:\\LTPTTKTT\\2001207116_DinhHuuPhap_BTT1\\2001207116_DinhHuuPhap_BTT1\\Program.cs",
+              "RelativeToolTip": "2001207116_DinhHuuPhap_BTT1\\Program.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:59:21.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
